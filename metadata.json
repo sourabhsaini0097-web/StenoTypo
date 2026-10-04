@@ -1,0 +1,8 @@
+{
+  "name": "StenoTypo by Sourabh",
+  "description": "Comprehensive Steno audio dictation and typing portal with Hindi (Remington Gail / Inscript) & English keyboards, live WPM/accuracy analysis, admin student management, and subscription controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
